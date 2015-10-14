@@ -1,0 +1,1 @@
+SUBDIRS = src @EXTRA_DIRS@
